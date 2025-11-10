@@ -1,4 +1,4 @@
-# Análisis de Desempeño de Tiendas — Alura Store Latam
+# Análisis de Desempeño de Tiendas — Alura Store Latam por Jhon Deivid Ramirez Nuñez
 
 Este proyecto presenta un análisis integral del rendimiento de diferentes tiendas pertenecientes a la marca Alura Store Latam, con el objetivo de identificar cuál de ellas presenta un menor desempeño operativo y comercial, a fin de fundamentar una recomendación estratégica para su posible venta.
 
